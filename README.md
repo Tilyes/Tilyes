@@ -2,7 +2,7 @@
 
 **结构工程 · 参数化建模 · 有限元可视化**
 
-🌐 [tilyes.github.io](https://tilyes.github.io) ｜ ✉️ [leijun0601@foxmail.com](mailto:leijun0601@foxmail.com)
+🌐 [tilyes.github.io](https://tilyes.github.io) ｜ ✉️ [leijun0601@foxmail.com](mailto:leijun0601@foxmail.com) ｜ 📝 [知乎](https://www.zhihu.com/people/jumjum-67/posts)
 
 ---
 
@@ -16,7 +16,7 @@
 
 **编程**　Python · C++20 · LaTeX · Git
 
-**工程分析**　OpenSees · Abaqus · SAP2000 · 有限元分析
+**工程分析**　LS-DYNA · LS-PrePost · OpenSees · Abaqus · SAP2000 · 有限元分析
 
 **图形 / 工具链**　Vulkan · ImGui · CMake · vcpkg · GLSL
 
@@ -26,19 +26,21 @@
 
 - **[OpenSees-GPU-Solver](https://github.com/Tilyes/OpenSees-GPU-Solver)** — 在 OpenSees 之上接入自研的 cuSPARSE GPU 迭代求解器（CG / BiCGStab + Jacobi / ILU(0) 预条件）。三个 3D 场景相较串行 SuperLU 最高加速 212×，并定位了 sm_120 平台上两个损坏的官方 API。
 - **[Geodesic-Shell-Parametric-Modeling](https://github.com/Tilyes/Geodesic-Shell-Parametric-Modeling)** — 短程线网壳参数化建模脚本。按正二十面体五重对称做 Class I 弦分法生成球面杆系，自动搜索最优分角让杆长尽可能均匀，再导出 Abaqus / SAP2000 模型。
+- **[LSPP-Parametric-Modeling](https://github.com/Tilyes/LSPP-Parametric-Modeling)** — 用 LS-PrePost 脚本做参数化建模：SCL 脚本建几何（实体 / 钢筋 Part 与 Part_List、Node_Set），cfile 配材料、截面、接触与求解控制，在预制混凝土柱水平冲击模型上跑通。
 - **[OpenSees_viewer](https://github.com/Tilyes/OpenSees_viewer)** — 基于 C++20 + Vulkan 的 OpenSees 有限元模型 3D 可视化工具，含 TCL 模型解析、离屏渲染与轨道相机。
 - **[Tilyes.github.io](https://github.com/Tilyes/Tilyes.github.io)** — 个人主页站点，零依赖纯静态，Markdown 渲染器自己写。
 
 ## ✍️ 最近写的
 
 - [在 OpenSees 里塞进一块 GPU：把有限元求解加速 212 倍](https://tilyes.github.io/post.html?p=opensees-gpu-solver) — 2026-10-03
-- [从 450 行到 280 行：一次网壳建模脚本的重构](https://tilyes.github.io/post.html?p=refactor-geodesic-shell) — 2026-10-03
+- [给 LS-PrePost 写一套参数化建模脚本：SCL + cfile](https://tilyes.github.io/post.html?p=lspp-parametric-modeling) — 2026-10-03
+- [短程线网壳的参数化建模：几何、方法，与一次脚本重构](https://tilyes.github.io/post.html?p=refactor-geodesic-shell) — 2026-10-03
 - [用不到 100 行写一个够用的 Markdown 渲染器](https://tilyes.github.io/post.html?p=mini-markdown-renderer) — 2026-09-28
 - [为什么我把个人主页搬到了 GitHub Pages](https://tilyes.github.io/post.html?p=hello-github-pages) — 2026-09-20
 
 ## 📫 找我
 
-[GitHub](https://github.com/Tilyes) · 邮箱：leijun0601@foxmail.com
+[GitHub](https://github.com/Tilyes) · [知乎](https://www.zhihu.com/people/jumjum-67/posts) · 邮箱：leijun0601@foxmail.com
 
 ---
 
