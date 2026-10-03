@@ -2,7 +2,7 @@
 
 **结构工程 · 参数化建模 · 有限元可视化**
 
-🌐 [jumjumblog.com](https://jumjumblog.com) ｜ ✉️ [leijun0601@foxmail.com](mailto:leijun0601@foxmail.com)
+🌐 [tilyes.github.io](https://tilyes.github.io) ｜ ✉️ [leijun0601@foxmail.com](mailto:leijun0601@foxmail.com)
 
 ---
 
@@ -30,9 +30,9 @@
 
 ## ✍️ 最近写的
 
-- [从 450 行到 280 行：一次网壳建模脚本的重构](https://jumjumblog.com/post.html?p=refactor-geodesic-shell) — 2026-10-03
-- [用不到 100 行写一个够用的 Markdown 渲染器](https://jumjumblog.com/post.html?p=mini-markdown-renderer) — 2026-09-28
-- [为什么我把个人主页搬到了 GitHub Pages](https://jumjumblog.com/post.html?p=hello-github-pages) — 2026-09-20
+- [从 450 行到 280 行：一次网壳建模脚本的重构](https://tilyes.github.io/post.html?p=refactor-geodesic-shell) — 2026-10-03
+- [用不到 100 行写一个够用的 Markdown 渲染器](https://tilyes.github.io/post.html?p=mini-markdown-renderer) — 2026-09-28
+- [为什么我把个人主页搬到了 GitHub Pages](https://tilyes.github.io/post.html?p=hello-github-pages) — 2026-09-20
 
 ## 📫 找我
 
